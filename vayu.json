@@ -2,18 +2,18 @@
   "response": [
     {
       "datetime": 1657601495,
-      "filename": "project-404-5.0-20220715-132132-SHINKA-GAPPS-vayu.zip",
-      "id": "318a77f644bdadfe1e1cccd7a027b625cec64b66e440b2090f3dca231170add9",
+      "filename": "project-404-5.0-20220715-141011-SHINKA-GAPPS-vayu.zip",
+      "id": "3742ded0129c448adf59d034482c2f92f669ec9684648005833a3c254351325d",
       "romtype": "userdebug",
-      "size": 1763171637,
-      "url": "https://sourceforge.net/projects/p404-vayu/files/beta/project-404-5.0-20220715-132132-SHINKA-GAPPS-vayu.zip/download",
+      "size": 1763179309,
+      "url": "https://sourceforge.net/projects/p404-vayu/files/beta/project-404-5.0-20220715-141011-SHINKA-GAPPS-vayu.zip/download",
       "version": "5.0",
       "links": {
         "supportGroup": "https://telegram.me/project_404",
         "deviceGroup": "https://t.me/clhex_chat"
       },
       "changes": [
-        "Add ota support"
+        "Misc fixes and Improvement"
       ]
     }
   ]
